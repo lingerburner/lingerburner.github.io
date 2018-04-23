@@ -15,6 +15,10 @@ h1 {
 	text-transform: none;
 	margin-top: 1rem;
 }
+#skills .subheading {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem!important;
+}
 .bg-primary{background-color:#227700!important}
 .text-primary{color:#008888!important}
 
